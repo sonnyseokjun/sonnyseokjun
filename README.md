@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -63,13 +61,13 @@
 
 <!-- 아래 {{username}} 를 전부 본인 아이디로 교체하세요 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={sonnyseokjun}&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={sonnyseokjun}&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- 연속 기여 스트릭 (선택) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{username}}&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={sonnyseokjun}&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
