@@ -76,6 +76,7 @@ I'm interested in backend engineering, AI agent, infrastructure and cloud comput
 |---|---|---|
 | **[Mefit]https://github.com/kmu-aws-capstone-team-4/backend** | AI 가상 면접 플랫폼 백엔드 개발 | Python, Django, DRF, AWS EC2 etc|
 | **[Mefit]https://github.com/kmu-aws-capstone-team-4/scraping** | AI 가상 면접 플랫폼 Mefit의 기능중 하나인 채용공고페이지에서 채용공고정보 추출, 스크래핑 파이프라인 | Python, OpenAI GPT, Langchain, Playwright etc |
+| **[Reading]https://github.com/kmu-software-engineering-project/backend** | 하네스 엔지니어링을 적용하여 개발한 AI기반 도서 추천 통합 플랫폼 | Python, Django, DRF, OpenAI GPT, Kakao Map API, Naver API etc|
 
 ---
 
