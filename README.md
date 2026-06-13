@@ -17,11 +17,14 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-<!-- 자유롭게 채우세요. 예시 항목들 -->
-Hi, I'm SeokJun kim and currently studying computer engineering in Kookmin university, Korea.<br>
-I'm interested in backend engineering, AI agent, infrastructure and cloud computing.<br>
-.I also enjoy meeting peolpe and doing new things. so feel free to contact me!
+
+**Hi, I'm SeokJun Kim and currently studying computer engineering in Kookmin University, Korea.**<br>
+**I'm interested in backend engineering, AI agent, infrastructure and cloud computing.**<br>
+**I also enjoy meeting people and doing new things, so feel free to contact me!**
+
 </div>
+
+---
 
 ---
 
