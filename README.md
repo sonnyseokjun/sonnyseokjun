@@ -74,14 +74,11 @@ I'm interested in backend engineering, AI agent, infrastructure and cloud comput
 <!-- 대표 프로젝트 2~4개를 표로 정리하면 깔끔합니다 -->
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| **[프로젝트명](링크)** | 한 줄 설명 | Django, AWS, Docker |
-| **[프로젝트명](링크)** | 한 줄 설명 | Python, AI Agent |
+| **[Mefit]https://github.com/kmu-aws-capstone-team-4/backend** | AI 가상 면접 플랫폼 백엔드 개발 | Python, Django, DRF, AWS EC2|
+| **[프로젝트명]** | 한 줄 설명 | Python, AI Agent |
 
 ---
 
-## 📫 Contact
-
-<!-- 사용하는 것만 남기고 링크를 채우세요 -->
 ## 📫 Contact
 
 <!-- 사용하는 것만 남기고 링크를 채우세요 -->
