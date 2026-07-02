@@ -88,4 +88,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seokjun1021)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyseokjun)
-[![Website](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://sonnyseokjun.github.io/my-website/)
+[![Website](https://img.shields.io/badge/Website-1B9AF7?style=for-the-badge&logo=safari&logoColor=white)](https://sonnyseokjun.github.io/my-website/)
