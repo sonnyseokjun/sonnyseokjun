@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- 한 줄 자기소개. 본인을 가장 잘 표현하는 문장으로 -->
-  <em>Backend & AI-native Software Engineer</em>
+  <em>AI-native Software Engineer</em>
 </p>
 
 <!-- 타이핑 애니메이션 헤더 (선택). lines= 뒤 문구를 바꾸면 됩니다 -->
