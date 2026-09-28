@@ -7,11 +7,6 @@
   <em>AI-native Software Engineer</em>
 </p>
 
-<!-- 타이핑 애니메이션 헤더 (선택). lines= 뒤 문구를 바꾸면 됩니다 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Python+%7C+Django+%7C+AWS;Building+with+AI+agents;Cloud+%26+Infrastructure" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
