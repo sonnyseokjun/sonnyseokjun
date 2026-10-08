@@ -52,15 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- 연속 기여 스트릭 (선택) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={sonnyseokjun}&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Projects
 
 <!-- 대표 프로젝트 2~4개를 표로 정리하면 깔끔합니다 -->
