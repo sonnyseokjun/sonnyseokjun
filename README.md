@@ -2,12 +2,12 @@
   v6 · Bento Grid (표를 타일처럼 써서 칸칸이 정리한 대시보드형)
 ========================================================== -->
 
-<!-- 제목 태그(h1~h6)를 쓰면 GitHub이 🔗 링크 아이콘을 붙이므로, 큰 글씨는 테마별 SVG 이미지로 표시 -->
+<!-- 제목 태그(h1~h6)를 쓰면 GitHub이 🔗 링크 아이콘을 붙이므로, 큰 글씨는 저장소 루트의 테마별 SVG 이미지로 표시 -->
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg"/>
-    <h1>Hello World! Welcome to my GitHub.</h1>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sonnyseokjun/sonnyseokjun/raw/main/hello-dark.svg"/>
+    <img src="https://github.com/sonnyseokjun/sonnyseokjun/raw/main/hello-light.svg" alt="Hello World! Welcome to my GitHub." height="34"/>
   </picture>
 </p>
 
@@ -21,7 +21,8 @@
       <p></p><!-- 처음·끝의 빈 <p></p>는 위아래 여백 균형용 -->
       <p>
         <picture>
-          <h4>SeokJun Kim</h4>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sonnyseokjun/sonnyseokjun/raw/main/name-dark.svg"/>
+          <img src="https://github.com/sonnyseokjun/sonnyseokjun/raw/main/name-light.svg" alt="SeokJun Kim" height="28"/>
         </picture>
       </p>
       <p><b><i>AI-native Software Engineer</i></b></p>
