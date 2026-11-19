@@ -1,6 +1,4 @@
-<div align= "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&text=Hello%20World!%20This%20is%20Seokjun&animation=fadeIn&fontColor=000000&fontSize=40" />
-</div>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
   <!-- 한 줄 자기소개. 본인을 가장 잘 표현하는 문장으로 -->
@@ -9,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <div align="center">
 
@@ -59,9 +57,9 @@
 <!-- 대표 프로젝트 2~4개를 표로 정리하면 깔끔합니다 -->
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| **[Mefit]https://github.com/kmu-aws-capstone-team-4/backend** | AI 가상 면접 플랫폼 백엔드 개발 | Python, Django, DRF, AWS EC2 etc|
-| **[Mefit]https://github.com/kmu-aws-capstone-team-4/scraping** | AI 가상 면접 플랫폼 Mefit의 기능중 하나인 채용공고페이지에서 채용공고정보 추출, 스크래핑 파이프라인 | Python, OpenAI GPT, Langchain, Playwright etc |
-| **[Reading]https://github.com/kmu-software-engineering-project/backend** | 하네스 엔지니어링을 적용하여 개발한 AI기반 도서 추천 통합 플랫폼 | Python, Django, DRF, OpenAI GPT, Kakao Map API, Naver API etc|
+| **[Mefit](https://github.com/kmu-aws-capstone-team-4/backend)** | AI 가상 면접 플랫폼 백엔드 개발 | Python, Django, DRF, AWS EC2 etc|
+| **[Mefit](https://github.com/kmu-aws-capstone-team-4/scraping)** | AI 가상 면접 플랫폼 Mefit의 기능중 하나인 채용공고페이지에서 채용공고정보 추출, 스크래핑 파이프라인 | Python, OpenAI GPT, Langchain, Playwright etc |
+| **[Reading](https://github.com/kmu-software-engineering-project/backend)** | 하네스 엔지니어링을 적용하여 개발한 AI기반 도서 추천 통합 플랫폼 | Python, Django, DRF, OpenAI GPT, Kakao Map API, Naver API etc|
 
 ---
 
@@ -72,3 +70,5 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyseokjun)
 [![Website](https://img.shields.io/badge/Website-1B9AF7?style=for-the-badge&logo=safari&logoColor=white)](https://sonnyseokjun.github.io/my-website-ko/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%"/>
