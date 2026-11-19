@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"/>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
     </td>
     <td width="62%" valign="middle">
-      <h2>SeokJun Kim <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"/></h2>
+      <h2>SeokJun Kim</h2>
       <p><b><i>AI-native Software Engineer</i></b></p>
       <p>🎓 Computer Engineering @ <b>Kookmin University, Korea</b></p>
       <p>I'm interested in AI-Native SW engineering, AI agent, infrastructure and cloud computing.
