@@ -7,7 +7,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg"/>
-    <img src="assets/hello-light.svg" alt="Hello World! Welcome to my GitHub." height="34"/>
+    <h2>Hello World! Welcome to my GitHub.</h2>
   </picture>
 </p>
 
@@ -22,7 +22,7 @@
       <p>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg"/>
-          <img src="assets/name-light.svg" alt="SeokJun Kim" height="28"/>
+          <h4>SeokJun Kim</h4>
         </picture>
       </p>
       <p><b><i>AI-native Software Engineer</i></b></p>
