@@ -11,7 +11,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About Me
 
 - 🎓 Currently studying **computer engineering** in **Kookmin University, Korea**
 - 🤖 Interested in **AI-Native SW engineering** and **AI agent**
