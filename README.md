@@ -1,70 +1,97 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! Welcome to my GitHub.</h1>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hello%20World!&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<!-- 한 줄 자기소개. 본인을 가장 잘 표현하는 문장으로 -->
-<em>AI-native Software Engineer</em>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI-native+Software+Engineer;AI+Agent+%7C+Infrastructure+%7C+Cloud;Kookmin+University%2C+Korea" alt="Typing SVG" /></a>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<br/>
 
-**Hi, I'm SeokJun Kim and currently studying computer engineering in Kookmin University, Korea.**<br>
-**I'm interested in AI-Native SW engineering, AI agent, infrastructure and cloud computing.**<br>
-**I also enjoy meeting people and doing new things, so feel free to contact me!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seokjun1021)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com)
+[![Website](https://img.shields.io/badge/Website-1B9AF7?style=flat-square&logo=safari&logoColor=white)](https://sonnyseokjun.github.io/my-website-ko/)
 
-<br clear="right"/>
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-### Backend & Framework
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-### Infra & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<div align="center">
+
+Hi, I'm **SeokJun Kim** and currently studying **computer engineering** in **Kookmin University, Korea**.<br/>
+I'm interested in **AI-Native SW engineering**, **AI agent**, **infrastructure** and **cloud computing**.<br/>
+I also enjoy meeting people and doing new things, so feel free to contact me! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+
+</div>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,go,django,redis,aws,docker,git,github,notion&perline=10" />
+
+<br/><br/>
+
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-### AI
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![AWS Kiro](https://img.shields.io/badge/AWS%20Kiro-7C3AED?style=for-the-badge&logoColor=white)
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<!--
-배지 더 찾기: https://shields.io  /  https://simpleicons.org (로고 이름 검색)
-형식: https://img.shields.io/badge/표시이름-색상코드?style=for-the-badge&logo=로고이름&logoColor=white
--->
+**AI Tools**<br/>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![AWS Kiro](https://img.shields.io/badge/AWS%20Kiro-7C3AED?style=for-the-badge&logoColor=white)
 
----
+</div>
 
-## 🚀 Projects
+<br/>
 
-<!-- 대표 프로젝트 2~4개를 표로 정리하면 깔끔합니다 -->
-| 프로젝트 | 설명 | 기술 스택 |
-|---|---|---|
-| **[Mefit](https://github.com/kmu-aws-capstone-team-4/backend)** | AI 가상 면접 플랫폼 백엔드 개발 | Python, Django, DRF, AWS EC2 etc|
-| **[Mefit](https://github.com/kmu-aws-capstone-team-4/scraping)** | AI 가상 면접 플랫폼 Mefit의 기능중 하나인 채용공고페이지에서 채용공고정보 추출, 스크래핑 파이프라인 | Python, OpenAI GPT, Langchain, Playwright etc |
-| **[Reading](https://github.com/kmu-software-engineering-project/backend)** | 하네스 엔지니어링을 적용하여 개발한 AI기반 도서 추천 통합 플랫폼 | Python, Django, DRF, OpenAI GPT, Kakao Map API, Naver API etc|
+<!-- ===================== PROJECTS ===================== -->
+<h2 align="center">🚀 Projects</h2>
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎤 Mefit · Backend</h3>
+      <p>AI 가상 면접 플랫폼 백엔드 개발</p>
+      <p><code>Python</code> <code>Django</code> <code>DRF</code> <code>AWS EC2</code></p>
+      <p align="center"><a href="https://github.com/kmu-aws-capstone-team-4/backend"><b>Repository →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🕸️ Mefit · Scraping</h3>
+      <p>Mefit의 기능 중 하나인 채용공고 페이지 정보 추출, 스크래핑 파이프라인</p>
+      <p><code>Python</code> <code>OpenAI GPT</code> <code>Langchain</code> <code>Playwright</code></p>
+      <p align="center"><a href="https://github.com/kmu-aws-capstone-team-4/scraping"><b>Repository →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📚 Reading</h3>
+      <p>하네스 엔지니어링을 적용하여 개발한 AI 기반 도서 추천 통합 플랫폼</p>
+      <p><code>Python</code> <code>Django</code> <code>DRF</code> <code>OpenAI GPT</code> <code>Kakao Map API</code> <code>Naver API</code></p>
+      <p align="center"><a href="https://github.com/kmu-software-engineering-project/backend"><b>Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-## 📫 Contact
+<br/>
 
-<!-- 사용하는 것만 남기고 링크를 채우세요 -->
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+
+**Thanks for visiting! Let's connect.** 📫
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seokjun1021)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnyseokjun)
 [![Website](https://img.shields.io/badge/Website-1B9AF7?style=for-the-badge&logo=safari&logoColor=white)](https://sonnyseokjun.github.io/my-website-ko/)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%"/>
