@@ -1,21 +1,17 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! Welcome to my GitHub.</h1><img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! Welcome to my GitHub.</h1>
 
-<p align="center">
-  <!-- 한 줄 자기소개. 본인을 가장 잘 표현하는 문장으로 -->
-  <em>AI-native Software Engineer</em>
-</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
----
+<!-- 한 줄 자기소개. 본인을 가장 잘 표현하는 문장으로 -->
+<em>AI-native Software Engineer</em>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-<div align="center">
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 **Hi, I'm SeokJun Kim and currently studying computer engineering in Kookmin University, Korea.**<br>
 **I'm interested in AI-Native SW engineering, AI agent, infrastructure and cloud computing.**<br>
 **I also enjoy meeting people and doing new things, so feel free to contact me!**
 
-</div>
+<br clear="right"/>
 
 ---
 
