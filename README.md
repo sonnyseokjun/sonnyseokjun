@@ -14,7 +14,7 @@
 <div align="center">
 
 **Hi, I'm SeokJun Kim and currently studying computer engineering in Kookmin University, Korea.**<br>
-**I'm interested in backend engineering, AI agent, infrastructure and cloud computing.**<br>
+**I'm interested in AI-Native SW engineering, AI agent, infrastructure and cloud computing.**<br>
 **I also enjoy meeting people and doing new things, so feel free to contact me!**
 
 </div>
