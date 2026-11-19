@@ -7,7 +7,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg"/>
-    <h2>Hello World! Welcome to my GitHub.</h2>
+    <h1>Hello World! Welcome to my GitHub.</h1>
   </picture>
 </p>
 
@@ -21,7 +21,6 @@
       <p></p><!-- 처음·끝의 빈 <p></p>는 위아래 여백 균형용 -->
       <p>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg"/>
           <h4>SeokJun Kim</h4>
         </picture>
       </p>
