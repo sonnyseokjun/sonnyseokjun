@@ -21,21 +21,12 @@
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
         <a href="https://sonnyseokjun.github.io/my-website-ko/"><img src="https://img.shields.io/badge/Website-1B9AF7?style=flat-square&logo=safari&logoColor=white"/></a>
       </p>
+      <p></p><!-- 이름(h2) 위 기본 여백과 균형을 맞추는 하단 여백 -->
     </td>
   </tr>
 </table>
 
-<!-- ───────── Row 2 : 관심 분야 타일 ───────── -->
-<table>
-  <tr>
-    <td width="25%" align="center"><h3>🤖</h3><b>AI-Native<br/>SW Engineering</b></td>
-    <td width="25%" align="center"><h3>🧠</h3><b>AI<br/>Agent</b></td>
-    <td width="25%" align="center"><h3>🏗️</h3><b>Infra-<br/>structure</b></td>
-    <td width="25%" align="center"><h3>☁️</h3><b>Cloud<br/>Computing</b></td>
-  </tr>
-</table>
-
-<!-- ───────── Row 3 : 기술 스택 타일 ───────── -->
+<!-- ───────── Row 2 : 기술 스택 타일 ───────── -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -68,8 +59,20 @@
   </tr>
 </table>
 
-<!-- ───────── Row 4 : 프로젝트 타일 ───────── -->
+<!-- ───────── Row 3 : 프로젝트 타일 (2x2) ───────── -->
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/sonnyseokjun/DART-project">DART-AI</a></h3>
+      DART 전자공시를 AI가 쉬운 언어로 요약해 주는 웹서비스 · <a href="https://dartaisite.duckdns.org">운영 중</a><br/><br/>
+      <code>Python</code> <code>Django</code> <code>OpenAI GPT</code> <code>DART OpenAPI</code> <code>Docker</code> <code>AWS Lightsail</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/kmu-software-engineering-project/backend">Reading</a></h3>
+      하네스 엔지니어링을 적용하여 개발한 AI 기반 도서 추천 통합 플랫폼<br/><br/>
+      <code>Python</code> <code>Django</code> <code>DRF</code> <code>OpenAI GPT</code> <code>Kakao Map API</code> <code>Naver API</code>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎤 <a href="https://github.com/kmu-aws-capstone-team-4/backend">Mefit · Backend</a></h3>
@@ -80,13 +83,6 @@
       <h3>🕸️ <a href="https://github.com/kmu-aws-capstone-team-4/scraping">Mefit · Scraping</a></h3>
       채용공고 페이지 정보 추출, 스크래핑 파이프라인<br/><br/>
       <code>Python</code> <code>OpenAI GPT</code> <code>Langchain</code> <code>Playwright</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📚 <a href="https://github.com/kmu-software-engineering-project/backend">Reading</a></h3>
-      하네스 엔지니어링을 적용하여 개발한 AI 기반 도서 추천 통합 플랫폼<br/><br/>
-      <code>Python</code> <code>Django</code> <code>DRF</code> <code>OpenAI GPT</code> <code>Kakao Map API</code> <code>Naver API</code>
     </td>
   </tr>
 </table>
