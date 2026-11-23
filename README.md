@@ -32,7 +32,7 @@
       <p>
         <a href="https://www.linkedin.com/in/seokjun1021"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kimsj6978@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-        <a href="https://sonnyseokjun.github.io/my-website-ko/"><img src="https://img.shields.io/badge/Website-1B9AF7?style=flat-square&logo=safari&logoColor=white"/></a>
+        <a href="https://sonnyseokjun.github.io/my-website/"><img src="https://img.shields.io/badge/Website-1B9AF7?style=flat-square&logo=safari&logoColor=white"/></a>
       </p>
       <p></p>
     </td>
